@@ -21,14 +21,14 @@
 ## Work Experience
 
 ```
-Solid experience on below stacks
+Solid experience on below stacks!
 ```
 
 | Stack | Type     | Work experience                |
 | :-------- | :------- | :------------------------- |
-| `ng-autocomplete-plugin` | `NPM Package` | 100% customizable autocomplete for angular application without external libraries. |
-| `react-autocomplete-plugin` | `NPM Package` | 100% customizable autocomplete for react application without external libraries. |
-| `vue-autocomplete-plugin` | `NPM Package` | 100% customizable autocomplete for vue application without external libraries. |
+| `ng-autocomplete-plugin` | `NPM Package` | 100% customizable autocomplete module for angular applications without external libraries. |
+| `react-autocomplete-plugin` | `NPM Package` | 100% customizable autocomplete module for react applications without external libraries. |
+| `vue-autocomplete-plugin` | `NPM Package` | 100% customizable autocomplete module for vue applications without external libraries. |
 | `modulejs.org` | `Documentation site` | Hosted documentation for the above angular, react and vue autocomplete modules. |
 | `OKTA & Cognito` | `SSO Integration` | Completely took over SSO integration using OKTA & Cognito at work. Great solid experience!  |
 | `Adyen` | `Payments` | Integrated Adyen payments in B2B and B2C applications at work including the Adyen Setup. |
