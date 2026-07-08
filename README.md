@@ -1,6 +1,11 @@
 
 # Hi, I'm Nodeworld | Ordiflow ! 👋
 
+Creator and CEO @
+
+[![HourOps](https://raw.githubusercontent.com/nodeworld/nodeworld/refs/heads/main/hourops.svg)](https://hourops.com/)
+[![Readme](https://raw.githubusercontent.com/nodeworld/nodeworld/refs/heads/main/Readme.svg)](https://readme.now/)
+
 ## 🔗 Creator of the Autocomplete module
 
 ### The documentation website for angular, react and vue autocomplete modules.
